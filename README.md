@@ -1,7 +1,7 @@
 # ncdu-s3
 This tool generates [ncdu](http://dev.yorhel.nl/ncdu) formatted JSON data file for S3 buckets
 
-![Screenshot](screenshots.gif)
+![Screenshot](.github/screenshots.gif)
 
 # Usage
 ```bash
